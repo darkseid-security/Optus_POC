@@ -4,4 +4,8 @@ API exploit POC<br>
 Exploit vulnerable API<br>
 API data scraper POC(proof-of-concept)
 
+Update [redacted] with domain name<br>
+Input correct parameter with to use with other apis<br>
+Update API version
+
 Credit: Darkreign

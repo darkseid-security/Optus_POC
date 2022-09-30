@@ -1,4 +1,5 @@
 #API scraping POC
+#Author: DarkReign
 
 [redacted]AccountAPI = "https://www.[redacted].com.au/api/myaccount/v1/accounts"
 
